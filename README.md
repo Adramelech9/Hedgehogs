@@ -1,4 +1,4 @@
-# Hedgehogs
+# Hedgehogs С#
 
 using System;
 using static Hedgehogs.Constants;
