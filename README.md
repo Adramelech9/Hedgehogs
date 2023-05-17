@@ -46,7 +46,9 @@ public class Hedgehogs {
     public static class Constants {
         public const string ANSWER = "minimum number of meetings: {0}";
     }
-} ________________________________________________________________________________  // Online Javascript Editor for free
+}
+ ________________________________________________________________________________ 
+// Online Javascript Editor for free
 // Write, Edit and Run your Javascript code using JS Online Compiler
 
 function validSolution(board) {
